@@ -45,9 +45,13 @@
 ![image](https://github.com/BogdanKoval4uk/-laboratornay2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-25%2017-30-10.png)
 ![image](https://github.com/BogdanKoval4uk/-laboratornay2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-25%2017-30-31.png)
 ![image](https://github.com/BogdanKoval4uk/-laboratornay2/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-04-25%2017-30-53.png)
+
 get init - создание пустого локального репозитория
+
 git remote add origin ... - добавление удаленного репозитория и присвоение ему названия
+
 git pull origin main - синхронизация с удалённым репозиторием
+
 
 #### Задание номер 3 (Создайте файл hello_world.cpp в локальной копии репозитория (который должен был появиться на шаге 2). Реализуйте программу Hello world на языке C++ используя плохой стиль кода. Например, после заголовочных файлов вставьте строку using namespace std;)
 
