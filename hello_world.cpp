@@ -3,5 +3,9 @@
 using namespace std;
 
 int main(){
- cout << "Hello world";
+int a;
+cout << "What's your name?";
+cin >> a;
+ cout << "Hello world from" << a;
+ return 0;
 }
